@@ -32,7 +32,7 @@ Decission tree classifier is built on original data and then data is balanced us
 ## Web Form Request
 
 ```http
-  https://mb-rain-prediction-app.herokuapp.com/
+  https://ks-rainfall-prediction-app.herokuapp.com/
 ```
 
 | Parameter | Type     | Possible Values  | Required?   |
@@ -47,7 +47,7 @@ Decission tree classifier is built on original data and then data is balanced us
 ## API call (via postman)
 
 ```http
-  POST https://mb-rain-prediction-app.herokuapp.com/predict
+  POST https://ks-rainfall-prediction-app.herokuapp.com/predict
 ```
 
 | Parameter | Type     | Possible Values  | Required?   |
@@ -140,7 +140,7 @@ alt="css3" width="40" height="40"/> </a>
 
 ## Authors
 
-- [@Mansoor Baig](https://github.com/MansoorAB)
+- [@Khamarjaha Sultana](https://github.com/KhamarMD)
 
   
 
