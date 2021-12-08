@@ -14,9 +14,9 @@
   * [Authors](#authors)
   
 ## Demo
-Link: [https://mb-rain-prediction-app.herokuapp.com/](https://mb-rain-prediction-app.herokuapp.com/)
+Link: [https://ks-rainfall-prediction-app.herokuapp.com/](https://ks-rainfall-prediction-app.herokuapp.com/)
 
-[![](https://imgur.com/0t3Bco8)](https://mb-rain-prediction-app.herokuapp.com/)
+[![](https://imgur.com/0t3Bco8)](https://ks-rainfall-prediction-app.herokuapp.com/)
 
 ## Overview
 This app helps user to predict if it would rain or not tomorrow, based on the weather information of today. 
